@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vetkicks.com/sitemap.xml
