@@ -1,0 +1,13 @@
+{
+  "name": "VetKicks",
+  "short_name": "VetKicks",
+  "description": "Authentic sneakers. Veteran verified.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070803",
+  "theme_color": "#A9B375",
+  "icons": [
+    { "src": "/assets/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/assets/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
